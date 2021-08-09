@@ -2,84 +2,70 @@
 
 * [前言](README.md)
 * [第一章：初步](Chapter1/1.0-Prelimary.md)
-  * [1.1 数据结构概述](Chapter1/1.1-Data_Science_Introduction.md)
-  * [1.2 为什么选择Python](Chapter1/1.2-Why_Choose_Python.md)
-  * [1.3 Python简史](Chapter1/1.3-The History of Python.md)
-  * [1.4 安装Python](Chapter1/1.4-Install Python Interpreter.md)
-  * [1.5 Hello, World!](Chapter1/1.5-Hello world.md)
-  * [1.6 注释](Chapter1/1.6-Comments.md)
-  * [拓展阅读](Chapter1/1.7-Extended Reading Materials.md)
-  * [本章小节](Chapter1/1.8-Summary.md)
-  * [习题](Chapter1/1.9-Practice.md)
+    * [1.1 数据结构概述](Chapter1/1.1-Data_Science_Introduction.md)
+    * [1.2 为什么选择Python](Chapter1/1.2-Why_Choose_Python.md)
+    * [1.3 Python简史](Chapter1/1.3-The History of Python.md)
+    * [1.4 安装Python](Chapter1/1.4-Install Python Interpreter.md)
+    * [1.5 Hello, World!](Chapter1/1.5-Hello world.md)
+    * [1.6 注释](Chapter1/1.6-Comments.md)
+    * [拓展阅读](Chapter1/1.7-Extended Reading Materials.md)
+    * [本章小节](Chapter1/1.8-Summary.md)
+    * [习题](Chapter1/1.9-Practice.md)
+* [第二章：搭建开发环境](Chapter2/2.0-Build_Environment.md)
+    * [2.1 Python类库](Chapter2/2.1-Package.md)
+    * [2.2 Anaconda](Chapter2/2.2-Anaconda.md)
+    * [2.3 Jupyter](Chapter2/2.3-Jupyter.md)
+    * [2.4 集成开发环境](Chapter2/2.4-IDE.md)
+    * [2.5 文本开发环境](Chapter2/2.5-Text_Editor.md)
+    * [拓展阅读](Chapter2/2.6-Extensive_Reading.md)
+    * [本章小结](Chapter2/2.7-Summary.md)
+    * [习题](Chapter2/2.8-Practice.md)
+* [第三章：基本数据类型](Chapter3/3.0-Basic_Data_Structure.md)
+    * [3.1 Python中的数据对象](Chapter3/3.1-Basic_Object.md)
+    * [3.2 数值类型](Chapter3/3.2-Numeric.md)
+    * [3.3 组合类型](Chapter3/3.3-Combination.md)
+    * [3.4 文件类型](Chapter3/3.4-File.md)
+    * [3.5 动态类型](Chapter3/3.5-Dynamics.md)
+    * [3.6 字符串格式化](Chapter3/3.6-String_Format.md)
+    * [3.7 编程艺术](Chapter3/3.7-Art_of_Programming.md)
+    * [3.8 本章小结](Chapter3/3.8-Summary.md)
+    * [3.9 拓展阅读](Chapter3/3.9-Extensive.md)
+    * [3.10 习题](Chapter3/3.10-Practice.md)
+* [第四章：基本语法](Chapter4/4.0-Practice.md)
+    * [6.1 程序控制结构](Chapter4/4.1-Control_Sequence.md)
+    * [6.2 赋值](Chapter4/4.2-Assignment.md)
+    * [6.3 输入](Chapter4/4.3-Input.md)
+    * [6.4 输出](Chapter4/4.4-Output.md)
+    * [6.5 异常处理](Chapter4/4.5-Exception.md)
+    * [本章小结](Chapter4/4.6-Summary.md)
+    * [习题](Chapter4/4.7-Practice.md)
+* [第五章：函数](Chapter5/5.0-Function.md)
+    * [5.1 什么是函数?](Chapter5/5.1-What_is_function.md)
+    * [5.2 函数声明](Chapter5/5.2-Function_Declare.md)
+    * [5.3 函数返回](Chapter5/5.3-Return.md)
+    * [5.4 代码复用](Chapter5/5.4-Multiplex.md)
+    * [5.5 函数应用](Chapter5/5.5-Function_Application.md)
+    * [本章小结](Chapter5/5.6-Summary.md)
+    * [习题](Chapter5/5.7-Practice.md)
+* [第六章：面向对象程序设计](Chapter6/6.0-Object-Oriented.md)
+* [第七章：NumPy基础](Chapter7/7.0-NumPy_Foundation.md)
+    * [7.1 NumPy概述](Chapter7/7.1-Introduction_to_NumPy.md)
+    * [7.2 NumPy数组](Chapter7/7.2-Array.md)
+    * [7.3 NumPy基础操作](Chapter7/7.3-Basic_Manipulation.md)
+    * [7.4 NumPy高级操作](Chapter7/7.4-Advanced_Manipulation.md)
+    * [本章小结](Chapter7/7.5-Summary.md)
+    * [拓展阅读](Chapter7/7.6-Extensive_Reading.md)
+* [第八章：SciPy基础](Chapter8/8.1-Scipy_Foundation.md)
+    * [8.1 SciPy概述](Chapter8/8.2-Introduce_to_SciPy.md)
+    * [8.2 SciPy基础](Chapter8/8.3-Basic_Manipulation.md)
+    * [8.3 积分](Chapter8/8.4-Integral.md)
+    * [8.4 线性代数](Chapter8/8.5-Linear_Algebra.md)
+    * [8.5 统计学](Chapter8/8.6-Statistics.md)
+    * [本章小结](Chapter8/8.7-Summary.md)
+    * [拓展阅读](Chapter8/8.8-Extensive_Reading.md)
+* [其他章节](OtherChampter/0.0-OtherChapter.md)
+* [附录:数学基础](Appendix/Appendix.0-Mathematics_Foundation.md)
+    * [A.1 微积分](Appendix/A.1-Calculus.md)
+    * [A.2 线性代数](Appendix/A.2-Linear_Algebra.md)
+    * [A.3 概率统计](Appendix/A.3-Probability_Statistics.md)
 
-* [第二章：搭建开发环境]
-  * [2.1 Python类库]
-  * [2.2 Anaconda]
-  * [2.3 Jupyter]
-  * [2.4 集成开发环境]
-  * [2.5 文本开发环境]
-  * [拓展阅读]
-  * [本章小结]
-  * [习题]
-
-* [第三章：基本数据类型]
-  * [3.1 Python中的数据对象]
-  * [3.2 数值类型]
-  * [3.3 组合类型]
-  * [3.4 文件类型]
-  * [3.5 动态类型]
-  * [3.6 字符串格式化]
-  * [3.7 编程艺术]
-  * [3.8 本章小结]
-  * [3.9 拓展阅读]
-  * [3.10 习题]
-
-* [第四章：基本语法]
-  * [4.1 程序控制结构]
-  * [4.2 赋值]
-  * [4.3 输入]
-  * [4.4 输出]
-  * [4.5 异常处理]
-  * [4.6 本章小节]
-
-* [第五章：函数]
-  * [5.1 什么是函数?]
-  * [5.2 函数声明]
-  * [5.3 函数返回]
-  * [5.4 代码复用]
-  * [5.5 函数应用]
-  * [本章小结]
-  * [习题]
-
-* [第六章：面向对象程序设计]
-  * [6.1 序控制结构]
-  * [6.2 赋值]
-  * [6.3 输入]
-  * [6.4 输出]
-  * [6.5 异常处理]
-  * [本章小结]
-  * [习题]
-
-* [第七章：NumPy基础]
-  * [7.1 NumPy概述]
-  * [7.2 NumPy数组类型]
-  * [7.3 NumPy基础操作]
-  * [7.4 NumPy高级操作]
-  * [拓展阅读]
-  * [本章小结]
-
-* [第八章：SciPy基础]
-  * [8.1 SciPy概述]
-  * [8.2 SciPy基础]
-  * [8.3 积分]
-  * [8.4 线性代数]
-  * [8.5 统计学]
-  * [本章小结]
-  * [拓展阅读]
-
-* [第九章：SymPy基础]
-
-* [附录:数学基础]
-  * [A.1 微积分]
-  * [A.2 线性代数]
-  * [A.3 概率统计]
