@@ -1,0 +1,7 @@
+# B.1 初识Markdown
+
+
+Markdown是一种纯文本格式的标记语言。通过标记语法，可以使普通文本具有既定的格式。Markdown语法简练易学。除了在传统写作应用广泛外，在数据科学领域，Markdown也大放异彩。对于开发者来说，Markdown已经是必须掌握的工具了。
+
+我们使用Jupyter
+Lab集成的Markdown工具，完成本附录的实践。另外我们也推荐使用专业的Markdown编辑器例如Typora来进行相关操作。

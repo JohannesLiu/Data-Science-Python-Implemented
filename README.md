@@ -1,1 +1,2 @@
-# Data_Science_Python_Implemented
+# 数据科学（Python实现）
+## 作者：刘晓凯
