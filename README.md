@@ -13,6 +13,7 @@ d # 数据科学（Python实现）
 遗憾的是，由于书籍编篡是一项繁琐且耗时的工作，我只有在我的课余时间才有时间去完成他们。因此，本书尚有诸多需要补充及校对的地方。如发现错误，请谅解。若您能为本书提供意见，或着报告错误于我，我将感激不尽！
 
 Johannes Liu
+
 Huazhong University of Science and Technology
 
 ## 寻求帮助
