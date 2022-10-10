@@ -22,7 +22,7 @@ Huazhong University of Science and Technology
 
 ## 本书组织结构
 
-本书组织结构如下
+本书组织结构如下:
 
 ├─Appendix-A
 │      A.1-Calculus.md
@@ -156,3 +156,4 @@ Huazhong University of Science and Technology
 │      
 ├─Chapter7
 │      7.0-NumPy_Foundation
+|
